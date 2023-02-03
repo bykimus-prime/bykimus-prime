@@ -55,12 +55,39 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg"
+        width="48"
+        height="48"
+        alt="SQL"
+      />
+      <br /><strong>SQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
         height="48"
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arcgis/arcgis-plain.svg"
+        width="48"
+        height="48"
+        alt="ArcGIS"
+      />
+      <br /><strong>ArcGIS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg"
+        width="48"
+        height="48"
+        alt="R"
+      />
+      <br /><strong>R</strong>
     </td>
   </tr>
   <tr>
