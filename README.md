@@ -55,30 +55,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg"
-        width="48"
-        height="48"
-        alt="SQL"
-      />
-      <br /><strong>SQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
         height="48"
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arcgis/arcgis-plain.svg"
-        width="48"
-        height="48"
-        alt="ArcGIS"
-      />
-      <br /><strong>ArcGIS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -102,3 +84,6 @@
     </td>
   </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bykimus-prime&show_icons=true&theme=transparent&layout=compact
+)](https://github.com/anuraghazra/github-readme-stats)
