@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    I'm Alexander Rodzyanko. I am excitedly learning programming through vairious languages, frameworks, and stacks. I have a master's degree in Marine and Environmental Affairs and hope to leverage both my programming skills and environmental science background to help solve the issues of the day.
+    I'm Alexander Rodzyanko. I am excitedly learning programming through various languages, frameworks, and stacks. I have a master's degree in Marine and Environmental Affairs and hope to leverage both my programming skills and environmental science background to help solve the issues of the day.
 </div>
 
 # 🔧 Technologies & Tools
